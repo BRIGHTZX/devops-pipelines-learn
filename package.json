@@ -1,0 +1,22 @@
+{
+  "name": "devops-pipelines-learn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BRIGHTZX/devops-pipelines-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BRIGHTZX/devops-pipelines-learn/issues"
+  },
+  "homepage": "https://github.com/BRIGHTZX/devops-pipelines-learn#readme",
+  "description": ""
+}
